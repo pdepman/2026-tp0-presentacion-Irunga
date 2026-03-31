@@ -1,3 +1,5 @@
+<img height="250" alt="Foto de perfil" src="https://raw.githubusercontent.com/pdepman/2026-tp0-presentacion-Irunga/03d9878ad7e85053326d2a7eea980a52690ea9a9/Foto%20Perfil%20Juan%20UTN.jpg"/>
+
 # Datos Personales
 **Apellido**: Irungaray Ortiz  
 **Nombre**: Juan Manuel  
