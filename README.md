@@ -29,3 +29,11 @@ Si bien he hecho alguna cosa por mi cuenta, me siento con muy pocos conocimiento
 - Proyectos:
   - Mapa de Counter-Strike 1.6 de mi colegio
   - Parche de PES 6 del Torneo Clausura 2009.
+
+# Proyectos viejos
+## Mapa de Counter Strike
+Antes de terminar el colegio, empezamos a jugar entre los chicos de mi año al Counter-Strike. Descubrí una herramienta llamada Valve Hammer Editor y surgió la idea de hacer un mapa para que juguemos. Obviamente lo primero que se nos ocurrió fue hacer el colegio, y empecé este proyecto hasta donde mi computadora de ese momento me lo permitió. En la pandemia volvimos a jugar y volvió a surgir el deseo, pero no tenía tanto tiempo como para retomar el proyecto. 
+
+<img width="470" alt="Foto de perfil" src="Mapa CS - 1.jpg"/><img width="470" alt="Foto de perfil" src="Mapa CS - 2.jpg"/>
+
+<img width="470" alt="Foto de perfil" src="Mapa CS - 3.jpg"/><img width="500" alt="Foto de perfil" src="Mapa CS - 4.jpg"/>
